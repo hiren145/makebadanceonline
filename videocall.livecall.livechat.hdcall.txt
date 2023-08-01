@@ -83,8 +83,6 @@
   "admob_native_context_text_color": "#000000",
   "analytics": false,
   "starting_screen_content_show": 5,
-  "video_call_show": "true",
-  "video_call_show_another": "true",
   "privacy_policy": "https://videocallreal.blogspot.com/2023/08/blog-post.html",
   "ads_button_animation": false,
   "Message": "Please Update Our App.",
