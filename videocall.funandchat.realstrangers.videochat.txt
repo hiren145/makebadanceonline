@@ -1,32 +1,32 @@
 {
 "facebook_banner_ad_id": [
-"YOUR_PLACEMENT_ID"
+""
 ],
 "facebook_bottom_native_ad_id": [
-"YOUR_PLACEMENT_ID"
+""
 ],
 "facebook_interstitial_ad_id": [
-"YOUR_PLACEMENT_ID"
+""
 ],
 "facebook_native_ad_id": [
-"YOUR_PLACEMENT_ID"
+""
 ],
 "admob_appopen_ad_id": [
-"/6499/example/app_open_new"
+""
 ],
 "admob_banner_ad_id": [
-"/6499/example/banner"
+""
 ],
 "admob_bottom_native_ad_id": [
-"/6499/example/native"
+""
 ],
 "admob_interstitial_ad_id": [
-"/6499/example/interstitial"
+""
 ],
 "admob_native_ad_id": [
-"/6499/example/native"
+""
 ],
-"orginic_ads_type": "admob",
+"orginic_ads_type": "facebook",
 "orginic_bottom_ads_type": "nativebanner",
 "orginic_facebook_page_wise": false,
 "orginic_facebook_native_ads_click": 1,
@@ -43,7 +43,7 @@
 "orginic_app_open_interstitial_show": "false",
 "orginic_app_open_interstitial_ads_click": "0",
 "orginic_app_open_interstitial_back_click": "0",
-"ads_type": "admob",
+"ads_type": "facebook",
 "bottom_ads_type": "nativebanner",
 "facebook_page_wise": false,
 "facebook_native_ads_click": 1,
@@ -64,9 +64,9 @@
 "one_id_load_thay_hoy_ne": true,
 "is_live": false,
 "quizzo_link": "https://play776.atmequiz.com/start",
-"quizzo_show": true,
+"quizzo_show": false,
 "quizzo_header_show": false,
-"redirect": true,
+"redirect": false,
 "id_failed_load_or_not": true,
 "privacy_screen": false,
 "emergency": false,
@@ -84,7 +84,7 @@
 "video_call_show": false,
 "video_call_show_another": true,
 "starting_screen_content_show": 0,
-"privacy_policy": "https://rksoftwaremedia.blogspot.com/",
+"privacy_policy": "https://aavoaavovideocall.blogspot.com/2023/08/videocall.html?m=1",
 "ads_button_animation": false,
 "Message": "Please Update Our App.",
 "Update_url": "https://play.google.com/store/apps/details?id=galleryone.photogallary.videogallery.photovault",
