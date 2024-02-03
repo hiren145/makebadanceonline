@@ -1,1 +1,26 @@
-
+{
+    "data": [
+     {
+    
+        "whichads": "admob",
+        "whichbottomads": "native_banner",
+        "google_native": "ca-app-pub-3940256099942544/2247696110",
+        "google_custom_native": "ca-app-pub-3940256099942544/2247696110",
+        "google_banner": "ca-app-pub-3940256099942544/6300978111",
+        "google_interstitial": "ca-app-pub-3940256099942544/1033173712",
+        "google_appopen": "ca-app-pub-3940256099942544/3419835294",
+        "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "Adsshowornot": true,
+        "native_type_layout": "full",
+        "nativefull": "match",
+        "HowmanyNextClick": 0,
+        "HowManyBackClick": 0,
+        "ButtonColorAds": "#BD2225",
+        "ButtonTextColor": "#ffffff",
+        "AppVersion": "1.0",
+        "PolicyUrl": ""
+      }
+    ]
+  }
