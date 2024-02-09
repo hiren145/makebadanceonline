@@ -15,11 +15,11 @@
         "Adsshowornot": true,
         "native_type_layout": "full",
         "nativefull": "match",
-        "HowmanyNextClick": 2,
-        "HowManyBackClick": 1,
+        "HowmanyNextClick": 0,
+        "HowManyBackClick": 0,
         "ButtonColorAds": "#12A280",
         "ButtonTextColor": "#ffffff",
-        "AppVersion": "1.1",
+        "AppVersion": "1",
         "PolicyUrl": "https://gbtool2024.blogspot.com/2024/02/gbtool2024.html"
       }
     ]
