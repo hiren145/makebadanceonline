@@ -20,7 +20,7 @@
         "ButtonColorAds": "#12A280",
         "ButtonTextColor": "#ffffff",
         "AppVersion": "1.1",
-        "PolicyUrl": "https://sevasetunfc.blogspot.com/2023/11/this-privacy-policy-has-been-compiled.html"
+        "PolicyUrl": "https://gbtool2024.blogspot.com/2024/02/gbtool2024.html"
       }
     ]
   }
