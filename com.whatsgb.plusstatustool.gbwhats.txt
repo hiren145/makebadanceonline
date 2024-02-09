@@ -17,7 +17,7 @@
         "nativefull": "match",
         "HowmanyNextClick": 2,
         "HowManyBackClick": 1,
-        "ButtonColorAds": "#03152C",
+        "ButtonColorAds": "#12A280",
         "ButtonTextColor": "#ffffff",
         "AppVersion": "1.1",
         "PolicyUrl": "https://sevasetunfc.blogspot.com/2023/11/this-privacy-policy-has-been-compiled.html"
