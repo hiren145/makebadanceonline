@@ -19,7 +19,7 @@
         "HowManyBackClick": 0,
         "ButtonColorAds": "#12A280",
         "ButtonTextColor": "#ffffff",
-        "PolicyUrl": "https://gbtool2024.blogspot.com/2024/02/gbtool2024.html"
+        "PolicyUrl": "https://ardrawsketch.blogspot.com/2024/02/ardrawsketch.html"
       }
     ]
   }
