@@ -17,7 +17,7 @@
         "nativefull": "match",
         "HowmanyNextClick": 0,
         "HowManyBackClick": 0,
-        "ButtonColorAds": "#12A280",
+        "ButtonColorAds": "#092560",
         "ButtonTextColor": "#ffffff",
         "PolicyUrl": "https://ardrawsketch.blogspot.com/2024/02/ardrawsketch.html"
       }
