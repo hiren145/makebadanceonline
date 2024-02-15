@@ -8,7 +8,7 @@
         "google_custom_native": "/6499/example/native",
         "google_banner": "/6499/example/banner",
         "google_interstitial": "/6499/example/interstitial",
-        "google_appopen": "/6499/example/app-open",
+        "google_appopen": "/6499/example/app_open_new",
         "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
