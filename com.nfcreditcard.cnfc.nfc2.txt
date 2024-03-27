@@ -19,7 +19,7 @@
         "HowManyBackClick": 1,
         "ButtonColorAds": "#03152C",
         "ButtonTextColor": "#ffffff",
-        "AppVersion": "1.1",
+        "AppVersion": "1.2",
         "PolicyUrl": "https://sevasetunfc.blogspot.com/2023/11/this-privacy-policy-has-been-compiled.html"
       }
     ]
