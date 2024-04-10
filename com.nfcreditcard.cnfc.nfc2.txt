@@ -2,7 +2,7 @@
     "data": [
      {
     
-        "whichads": "admob",
+        "whichads": "facebook",
         "whichbottomads": "native_banner",
         "google_native": "/21833905170,22854404648/Native_cnfc.nfc2_native_DU",
         "google_custom_native": "/21833905170,22854404648/Native_cnfc.nfc2_native_DU",
